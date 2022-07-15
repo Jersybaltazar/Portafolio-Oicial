@@ -161,6 +161,7 @@ input#menu-hamburguesa:checked ~ ul{
     border-top: 100px solid var(--principal-color);
     position: absolute;
     width: 100%;
+    
      
 }
 .colaboracion{
